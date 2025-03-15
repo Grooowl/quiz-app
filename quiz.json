@@ -1,0 +1,8 @@
+[
+  {
+    "id": number,
+    "question": "quelle est la capitale de la France ?",
+    "options": ["Paris", "Madrid", "Mexico"],
+    "correctAnswer": 1
+  },
+]
