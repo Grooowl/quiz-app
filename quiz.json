@@ -11,6 +11,11 @@
       "answer": "Madrid"
     },
     {
+      "question": "What is the capital of Italy?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "answer": "Rome"
+    },
+    {
       "question": "What is the capital of Allemagne?",
       "options": ["Berlin", "Madrid", "Paris", "Rome"],
       "answer": "Berlin"
