@@ -16,6 +16,11 @@
       "answer": "Rome"
     },
     {
+      "question": "What is the capital of China?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "answer": "Rome"
+    },
+    {
       "question": "What is the capital of Allemagne?",
       "options": ["Berlin", "Madrid", "Paris", "Rome"],
       "answer": "Berlin"
