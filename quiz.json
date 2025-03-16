@@ -26,6 +26,11 @@
       "answer": "west"
     }
   ]
+},
+{
+  "type": "open_ended",
+  "question": "Explain why the sky is blue.",
+  "answer": "The scattering of light by molecules in the atmosphere."
 }
   ]
 }
