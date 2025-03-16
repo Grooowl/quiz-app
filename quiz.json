@@ -1,30 +1,16 @@
 {
   "questions": [
     {
-      "question": "What is the capital of France?",
-      "options": ["Berlin", "Madrid", "Paris", "Rome"],
-      "answer": "Paris"
-    },
-    {
-      "question": "What is the capital of Spain?",
-      "options": ["Berlin", "Madrid", "Paris", "Rome"],
-      "answer": "Madrid"
-    },
-    {
-      "question": "What is the capital of Italy?",
-      "options": ["Berlin", "Madrid", "Paris", "Rome"],
-      "answer": "Rome"
-    },
-    {
-      "question": "What is the capital of China?",
-      "options": ["Berlin", "Madrid", "Paris", "Rome"],
-      "answer": "Rome"
-    },
-    {
-      "question": "What is the capital of Allemagne?",
-      "options": ["Berlin", "Madrid", "Paris", "Rome"],
-      "answer": "Berlin"
-    }
+  "type": "true_false",
+  "question": "The Earth is flat.",
+  "answer": false
+},
+   {
+  "type": "multiple_choice",
+  "question": "What is the capital of Spain?",
+  "options": ["Berlin", "Madrid", "Paris", "Rome"],
+  "answer": "Madrid"
+} 
   ]
 }
 
