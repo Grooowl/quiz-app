@@ -10,7 +10,23 @@
   "question": "What is the capital of Spain?",
   "options": ["Berlin", "Madrid", "Paris", "Rome"],
   "answer": "Madrid"
-} 
+},
+    {
+  "type": "fill_in_the_blank",
+  "question": "The sun rises in the _____ and sets in the _____.",
+  "blanks": [
+    {
+      "position": 1,
+      "options": ["east", "west", "north", "south"],
+      "answer": "east"
+    },
+    {
+      "position": 2,
+      "options": ["east", "west", "north", "south"],
+      "answer": "west"
+    }
+  ]
+}
   ]
 }
 
