@@ -7,8 +7,8 @@
 },
     {
   "type": "true_false",
-  "question": "Cyprien est gros",
-  "answer": false
+  "question": "L'IA va nous piquer nos emplois ?",
+  "answer": true
 },
    {
   "type": "multiple_choice",
@@ -27,7 +27,7 @@
     },
     {
       "position": 2,
-      "options": ["east", "west", "north", "south"],
+      "options": ["est", "ouest", "nord", "sud"],
       "answer": "west"
     }
   ]
